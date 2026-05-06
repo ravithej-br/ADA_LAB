@@ -85,3 +85,20 @@ int main() {
 
     return 0;
 }
+
+
+
+/* 
+Enter number of vertices: 4
+Enter adjacency matrix (0 for no edge):
+0 3 0 7
+8 0 2 0
+5 0 0 1
+2 0 0 0
+
+Shortest distance matrix:
+0 3 5 6 
+5 0 2 3 
+3 6 0 1 
+2 5 7 0 
+*/
